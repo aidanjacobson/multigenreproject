@@ -1,1 +1,1 @@
-[Project Landing Page](index.html)
+[Project Landing Page](aidanjacobson.github.io/multigenreproject/index.html)
