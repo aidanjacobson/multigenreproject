@@ -14,6 +14,7 @@ Sources:
     glossary
         scholarly: https://www.google.com/books/edition/Disinformation_and_Fake_News/WmMGEAAAQBAJ?hl=en&gbpv=1&dq=misinformation+definition&printsec=frontcover pg. 7 (misinformation definition)
         scholarly: https://www.google.com/books/edition/Callous_Disregard/l3UsDwAAQBAJ?hl=en&gbpv=1&dq=andrew+wakefield&printsec=frontcover (Andrew wakefield)
+        non scholarly: https://www.niaid.nih.gov/about/director (fauci)
     diary
         scholarly: https://www.jstor.org/stable/resrep25256?searchText=%28covid+misinformation+deaths%29+AND+%28misinformation%29&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dmisinformation%26so%3Drel%26prq%3Dcovid%2Bmisinformation%2Bdeaths%26swp%3Don&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A839a93d0ee8d98ff53cd4f3352b9bdcd&seq=21 (talks about conspiracy)
     memo
